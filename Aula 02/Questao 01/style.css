@@ -1,0 +1,18 @@
+h1 {
+    color: #ff0000;  
+ }
+ table {
+    width: 500px;
+    text-align: center;  
+ }
+ tr {
+    background-color: #c48530;  
+ }
+ tr:hover {
+    background-color: #999;  
+    color: #fff;
+ }
+ th {
+    background-color:#fd3303;  
+    color: #000;
+ }

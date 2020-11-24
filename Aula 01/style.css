@@ -1,0 +1,22 @@
+p {
+    color: rgb(13, 94, 37);  
+ } 
+li:nth-child(odd) {
+    color: coral;
+ }
+ h1 {
+    color: rgb(212, 43, 13);  
+ }
+ h1:hover {
+    color: rgb(22, 107, 236);  
+ }
+ #segundo {
+    text-decoration: underline;
+ }
+ /*a, h3 {
+    color: rgb(197, 236, 22);  
+ }*/
+ .amarelo {
+    color: rgb(197, 236, 22); 
+    font-size: large; 
+ }
